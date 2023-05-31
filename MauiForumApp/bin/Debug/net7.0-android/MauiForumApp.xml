@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>MauiForumApp</name>
+    </assembly>
+    <members>
+        <member name="T:MauiForumApp.ViewModel.BaseViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiForumApp.ViewModel.BaseViewModel.IsBusy">
+            <inheritdoc cref="F:MauiForumApp.ViewModel.BaseViewModel.isBusy"/>
+        </member>
+        <member name="P:MauiForumApp.ViewModel.BaseViewModel.Title">
+            <inheritdoc cref="F:MauiForumApp.ViewModel.BaseViewModel.title"/>
+        </member>
+        <member name="T:MauiForumApp.ViewModel.DetailsPageViewModel">
+            <inheritdoc/>
+        </member>
+        <member name="P:MauiForumApp.ViewModel.DetailsPageViewModel.Topic">
+            <inheritdoc cref="F:MauiForumApp.ViewModel.DetailsPageViewModel.topic"/>
+        </member>
+        <member name="T:MauiForumApp.ViewModel.TopicViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:MauiForumApp.ViewModel.TopicViewModel.getTopicsCommand">
+            <summary>The backing field for <see cref="P:MauiForumApp.ViewModel.TopicViewModel.GetTopicsCommand"/>.</summary>
+        </member>
+        <member name="P:MauiForumApp.ViewModel.TopicViewModel.GetTopicsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:MauiForumApp.ViewModel.TopicViewModel.GetTopicsAsync"/>.</summary>
+        </member>
+        <member name="F:MauiForumApp.ViewModel.TopicViewModel.goToDetailsCommand">
+            <summary>The backing field for <see cref="P:MauiForumApp.ViewModel.TopicViewModel.GoToDetailsCommand"/>.</summary>
+        </member>
+        <member name="P:MauiForumApp.ViewModel.TopicViewModel.GoToDetailsCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:MauiForumApp.ViewModel.TopicViewModel.GoToDetailsAsync(MauiForumApp.Models.TopicModel)"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Topic">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Topic" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsNotBusy">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsNotBusy" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Title">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Title" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Topic">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Topic" generated properties.</summary>
+        </member>
+    </members>
+</doc>
