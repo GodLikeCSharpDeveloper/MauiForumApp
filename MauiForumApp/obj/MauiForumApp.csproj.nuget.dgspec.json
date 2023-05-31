@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\KAYAYASHA\\Desktop\\New folder\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj": {}
+    "C:\\Users\\KAYAYASHA\\Desktop\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\KAYAYASHA\\Desktop\\New folder\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj": {
+    "C:\\Users\\KAYAYASHA\\Desktop\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\KAYAYASHA\\Desktop\\New folder\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj",
+        "projectUniqueName": "C:\\Users\\KAYAYASHA\\Desktop\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj",
         "projectName": "MauiForumApp",
-        "projectPath": "C:\\Users\\KAYAYASHA\\Desktop\\New folder\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj",
+        "projectPath": "C:\\Users\\KAYAYASHA\\Desktop\\MauiForumApp\\MauiForumApp\\MauiForumApp.csproj",
         "packagesPath": "C:\\Users\\KAYAYASHA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\KAYAYASHA\\Desktop\\New folder\\MauiForumApp\\MauiForumApp\\obj\\",
+        "outputPath": "C:\\Users\\KAYAYASHA\\Desktop\\MauiForumApp\\MauiForumApp\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [
