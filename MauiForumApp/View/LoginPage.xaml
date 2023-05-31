@@ -2,8 +2,29 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MauiForumApp.View.LoginPage"
-             Title="LoginPage">
-    <VerticalStackLayout>
-        <Button Text="Login" Command="{Binding LoginCommand}"></Button>
+             Title="LoginPage"
+             Shell.FlyoutBehavior="Disabled"
+             Shell.NavBarIsVisible="False">
+
+    <VerticalStackLayout VerticalOptions="Center">
+        <Grid Padding="10">
+            <VerticalStackLayout>
+                <Label Text="Enter your login or email" FontFamily="Serif"></Label>
+                <Entry></Entry>
+                <Label Text="Enter a password" FontFamily="Serif"></Label>
+                <Entry></Entry>
+                <HorizontalStackLayout >
+                    <Button Text="Login in" WidthRequest="90" Command="{Binding LoginCommand}" Margin="0,5,5,5"></Button>
+                    <Button Text="Google" WidthRequest="90" Command="{Binding LoginCommand}" Margin="5"></Button>
+                    <Button Text="Smth else" WidthRequest="90" Command="{Binding LoginCommand}" Margin="5"></Button>
+                </HorizontalStackLayout>
+                   
+               
+                
+            </VerticalStackLayout>
+            
+        </Grid>
+        
     </VerticalStackLayout>
+
 </ContentPage>

@@ -18,7 +18,7 @@ public partial class MainPage : ContentPage
         if (IsAuth is false)
         {
             IsAuth = true;
-            Shell.Current.GoToAsync(nameof(LoginTemplate), true);
+            Shell.Current.GoToAsync(nameof(LoginPage), true);
         }
     }
 }

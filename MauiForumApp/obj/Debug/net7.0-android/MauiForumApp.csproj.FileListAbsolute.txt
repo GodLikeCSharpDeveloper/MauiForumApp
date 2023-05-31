@@ -993,3 +993,5 @@ C:\Users\KAYAYASHA\Desktop\New folder\MauiForumApp\MauiForumApp\obj\Debug\net7.0
 C:\Users\KAYAYASHA\Desktop\New folder\MauiForumApp\MauiForumApp\obj\Debug\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appiconfg.png
 C:\Users\KAYAYASHA\Desktop\New folder\MauiForumApp\MauiForumApp\obj\Debug\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appiconfg_background.png
 C:\Users\KAYAYASHA\Desktop\New folder\MauiForumApp\MauiForumApp\obj\Debug\net7.0-android\resizetizer\r\mipmap-xxxhdpi\appiconfg_foreground.png
+C:\Users\KAYAYASHA\Desktop\New folder\MauiForumApp\MauiForumApp\obj\Debug\net7.0-android\resizetizer\f\RobotoSlab-VariableFont_wght.ttf
+C:\Users\KAYAYASHA\Desktop\New folder\MauiForumApp\MauiForumApp\obj\Debug\net7.0-android\resizetizer\f\SourceSerifPro-SemiBold.ttf

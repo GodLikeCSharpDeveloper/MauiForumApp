@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/MauiForumApp/obj/Debug/net7.0-android/lp/98/jl/*.zip
